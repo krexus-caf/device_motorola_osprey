@@ -1,3 +1,67 @@
 [
-]
+  {
+    "repository": "CyanogenMod/android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "branch": "cm-13.0"
+  },
 
+  {
+    "repository": "CyanogenMod/android_external_bson",
+    "target_path": "external/bson",
+    "branch": "cm-13.0"
+  },
+
+  {
+    "repository": "CyanogenMod/android_external_stlport",
+    "target_path": "external/stlport",
+    "branch": "cm-13.0"
+  },
+
+  {
+    "repository": "CyanogenMod/android_hardware_qcom_audio",
+    "target_path": "hardware/qcom/audio-caf/msm8916",
+    "branch": "cm-13.0-caf-8916"
+  },
+
+  {
+    "repository": "CyanogenMod/android_hardware_qcom_display",
+    "target_path": "hardware/qcom/display-caf/msm8916",
+    "branch": "cm-13.0-caf-8916"
+  },
+
+  {
+    "repository": "CyanogenMod/android_hardware_qcom_media",
+    "target_path": "hardware/qcom/media-caf/msm8916",
+    "branch": "cm-13.0-caf-8916"
+  },
+
+  {
+    "repository": "CyanogenMod/android_kernel_motorola_msm8916",
+    "target_path": "kernel/motorola/msm8916",
+    "branch": "cm-13.0"
+  },
+
+  {
+    "repository": "krexus-caf/device_motorola_msm8916-common",
+    "target_path": "device/motorola/msm8916-common",
+    "branch": "caf"
+  },
+
+  {
+    "repository": "TheMuppets/proprietary_vendor_motorola",
+    "target_path": "vendor/motorola",
+    "branch": "cm-13.0"
+  },
+
+  {
+    "repository": "SlimRoms/frameworks_opt_hardware",
+    "target_path": "frameworks/opt/hardware",
+    "branch": "mm6.0"
+  },
+
+  {
+    "repository": "SlimRoms/hardware_cyanogen",
+    "target_path": "hardware/cyanogen",
+    "branch": "mm6.0"
+  }
+]
